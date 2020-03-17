@@ -1,5 +1,6 @@
 require "spec_helper"
 
+
 describe "ChattyStudent" do 
   
   let!(:chatty_student) { ChattyStudent.new }
